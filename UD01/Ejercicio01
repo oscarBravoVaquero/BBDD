@@ -1,18 +1,36 @@
 #Amplia tu aprendizaje
 1. Define los siguiente conceptos:
-- Dato
-- Tipo de Dato
-- Campo
-- Registro
-- Consulta
-- Procedimiento
+- Dato es el elemento fundamental que forman la información almacenada y gestiona el sistema de base de datos
+- Tipo de Dato es una categoria que se le da a los datos en una base de datos para definir que tipo de valor puede contener 
+- Campo es una columna dentro de una tabla que almacena un tipo de información para cada registro 
+- Registro es una fila en una tabla que contiene todos los datos relacionados de una entidad
+- Consulta es la forma en la que los usuarios interactúan con los datos en una base de datos puediendo modificar información
+- Procedimiento es un conjunto de instrucciones que se almacenan  en una base de datos para realizar tareas especificas
 
 2. Clasifica los distintos tipos de fichero
-
+   Ficheros permanentes:
+     ficheros maestros
+     ficheros constantes
+     ficheros historicos
+   Ficheros temporales:
+     ficheros intermedios 
+     ficheros de maniobras
+     ficheros de resultados
 3. ¿Qué son las tablas UNICODE?
-
+    son tablas que estan diseñadas par aalmacenar datos de texto en un formato que es compatible con el estándar unicode 
 4. Tipos de SGBD
-
+  SGBD Relacionales
+  SGBD No Relacionales
+  SGBD Orientados a Objetos
+  SGBD Jerárquicos
+  SGBD de Red
+  SGBD en la Nube
 5. Distribuciones de SGBD 
-
+   son variantes que se distribuyen bajo diferentes licencias con distintas características 
 6.-Alternativas a los SGBD Comerciales
+   MySQL
+   PostgreSQL
+   MariaDB
+   SQLite
+   Redis
+   MongoDB
